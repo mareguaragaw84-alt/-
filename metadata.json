@@ -1,0 +1,6 @@
+{
+  "name": "አቡነ ዮሴፍ | Abune Yosef Heritage & Ecology",
+  "description": "የአቡነ ዮሴፍ ተራራ፣ የላስታ ጥንታዊ ገዳማት (ይምርሃነ ክርስቶስ፣ ገነተ ማርያም፣ አሽተን ማርያም) እና የአፍሮ-አልፓይን ብዝሃ ሕይወት ዲጂታል መረጃ መድረክ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
